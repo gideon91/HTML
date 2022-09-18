@@ -1,0 +1,27 @@
+<strong></strong>   Negritas
+<em></em>           Italica
+<p></p>             Parrafo
+<ol></ol>	    Lista ordenada
+<ul></ul>	    Lista desordenada
+<li></li>	    List item
+<img />	 	    Imagen
+<meta>		    Metadatos
+<a></a>	    	    Links
+<nav></nav>	    Navegador (Estructura)
+<header></header>   Encabezado (Estructura)
+<article></article> Articulo contenido (Estructura)
+<fotter></footer>   Pie de pagina (Estructura)
+<div></div>	    Divisor de contenido (Estructura)
+<aside></aside>	    Informacion secundaria (Estructura)
+
+Atriburos
+
+src=""               Ruta del archivo
+alt=""		     Contenido alterno
+width=""	     Anchura
+heigth		     Altura
+lang= ""	     Lenguaje
+charset= ""  	     Conjunto de caracteres
+href= ""	     Redirigir a un URL
+target=""	     Dirigir donde abrir el link
+_blank		     Abrir en nueva pestana
