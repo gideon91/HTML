@@ -3,18 +3,24 @@ h2,
 h3,
 p,
 li {
-  font-family: serif;
+  font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3 {
+  color: #1098ad;
 }
 
 h1 {
-  color: rgb(244, 179, 63);
-  font-size: 26px;
+  color: #1098ad;
   text-transform: uppercase;
   font-style: italic;
+  font-size: 26px;
 }
 
 h2 {
-  color: black;
   font-size: 40px;
   font-family: sans-serif;
 }
@@ -67,4 +73,25 @@ li {
 
 .related {
   list-style: none;
+}
+
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border: 5px solid #1098ad;
+}
+
+/* body {
+  background-color: #1098ad;
+} */
+
+/* .first-li {
+  font-weight: bold;
+} */
+
+li:first-child {
+  font-weight: bold;
 }
